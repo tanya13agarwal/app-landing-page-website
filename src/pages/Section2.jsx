@@ -17,7 +17,7 @@ import section2FillStar from '../data/section2FillStar.png';
 
 const Section2 = () => {
   return (
-    <div>
+    <div className='w-11/12 mx-auto'>
       
       <Section2Content
         position={"lg:flex-row"}

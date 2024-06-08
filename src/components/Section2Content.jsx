@@ -24,7 +24,7 @@ const Section2Content = ({
         <div className='flex flex-col'>
             <div className='flex flex-col'>
                 <p className='text-red'>{superHeading}</p>
-                <p className='font-bold text-black text-2xl'>{heading}</p>
+                <p className='font-extrabold text-black text-4xl'>{heading}</p>
                 {subHeading}
             </div>
 
