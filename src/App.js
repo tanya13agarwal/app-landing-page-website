@@ -10,7 +10,7 @@ import Footer from './pages/Footer'
 
 const App = () => {
   return (
-    <div className='backgroundImg'>
+    <div className='backgroundImg object-fill'>
       <Navbar/>
       <Section1/>
       <Section2/>
